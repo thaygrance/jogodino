@@ -1,0 +1,69 @@
+body {
+    background-color: #fafafa;
+}
+body h1{
+    color: #99ff11;
+    font-family: Arial;
+    text-align: center;
+    position:fixed;
+    z-index:3;
+    margin-left: 20px;
+}
+
+.mateus {
+    width: 5%;
+    height:15%;
+    position:absolute;
+    bottom:0;
+}
+.mateus img{
+    width: 100%;
+    height:100%;
+}
+
+.tiaThay{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    bottom:0;
+}
+
+.tiaThayImg {
+    width: 100%;
+    height: 100%;
+}
+
+.game-over{
+    text-align: center;
+    color:#1212d1;
+    margin-top:50px;
+    font-family: arial;
+}
+
+.game-over-img {
+    width: 40%;
+    margin-left:30%;
+}
+.game-over-img img{
+    width: 100%;
+   
+}
+
+@keyframes slideright {
+    from { 
+        background-position: 70000%;
+    }
+    to {
+        background-position: 0;
+    }
+}
+
+.background{
+    position: absolute;
+    bottom:0;
+    width:100%;
+    height: 100%;
+    background-image: url(background-supermario.png);
+    background-repeat: repeat-x;
+    animation: slideright 600s infinite linear;
+}
