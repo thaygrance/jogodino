@@ -22,3 +22,5 @@ minha curva de aprendizagem.
 LINK DA PÁGINA
 
 https://supermateus.netlify.app/
+
+<img alt="Gif da página" width="500" src="Gravação de tela de 18-11-2021 18_18_28.gif">
