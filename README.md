@@ -1,6 +1,8 @@
 # jogodino
 versão Super Mateus x Tia Thay
 
+MINHA EXPERIÊNCIA
+
 Esse jogo foi feito como exercício do Bootcamp Impulso da Digital Innovation One.
 
 O desafio era recriar o jogo do Google do dinossauro sem internet pulando cactos. 
@@ -16,3 +18,7 @@ estivermos perto.
 O jogo foi feito utilizando Javascript puro com HTML e CSS. O mais interessante foi ver as 
 possibilidades de criar manipulando eventos dentro do Javascript. Sem dúvida um projeto marcante na 
 minha curva de aprendizagem.
+
+LINK DA PÁGINA
+
+https://supermateus.netlify.app/
